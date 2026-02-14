@@ -1,0 +1,3 @@
+1. Adafruit_SSD1306 (for OLED)
+2. Adafruit_GFX (for Graphics)
+3. Wire (Built-in)
